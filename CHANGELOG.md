@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/NetherGamesMC/media-kit/compare/v1.1.0...v1.1.1) (2022-10-21)
+
+
+### Features
+
+* Add Brand Assets Kit ([a843bb5](https://github.com/NetherGamesMC/media-kit/commit/a843bb5fbfaa3767fb4100f9287b8cef02a2e50e))
+
 ## [1.1.0](https://github.com/NetherGamesMC/media-kit/compare/v1.0.0...v1.1.0) (2022-10-21)
 
 
