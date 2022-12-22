@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/NetherGamesMC/media-kit/compare/v1.1.1...v1.2.0) (2022-12-22)
+
+
+### Features
+
+* Add screenshots ([3c991a9](https://github.com/NetherGamesMC/media-kit/commit/3c991a94f7b6cc9be461bff6c9392b96f4a28a23))
+
 ### [1.1.1](https://github.com/NetherGamesMC/media-kit/compare/v1.1.0...v1.1.1) (2022-10-21)
 
 
